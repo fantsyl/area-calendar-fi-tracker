@@ -9,5 +9,9 @@
 |Domain|Bound|Input|Output|
 |---|---|---|---|
 |#App|Google|#GCalendar|#GCal#GSheet|
-||
+||today sum|
+||month sum|
+||report|
+||budget|
+||title|
 ## OUTPUT
