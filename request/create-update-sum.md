@@ -8,4 +8,5 @@
 - 1.count per day total sum
 - 2.update day sum
 ### 3) Count Month Sum
+- 1.add all these day sum
 ### 5) Update Events
